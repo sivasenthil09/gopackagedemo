@@ -1,0 +1,2 @@
+# gopackagedemo
+go package demo
